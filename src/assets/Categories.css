@@ -1,0 +1,15 @@
+.card{
+    width: 333px;
+    height: 360px;
+    background-color: antiquewhite;
+    border-radius: 12px;
+    margin: 18px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+button:hover{
+    color: #fff; 
+    background: hsl(300, 69%, 71%); 
+}

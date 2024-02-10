@@ -1,0 +1,49 @@
+export const QuestionList = [
+    {
+      img:"https://images.ctfassets.net/hrltx12pl8hq/28ECAQiPJZ78hxatLTa7Ts/2f695d869736ae3b0de3e56ceaca3958/free-nature-images.jpg?fit=fill&w=1200&h=630",
+      question: "Which device is required for the Internet connection?",
+      option1: "Modem",
+      option2: "Router",
+      option3: "LAN Cable",
+      option4: "Pen Drive",
+      ans: 1,
+    },
+    {
+      img:"https://images.ctfassets.net/hrltx12pl8hq/28ECAQiPJZ78hxatLTa7Ts/2f695d869736ae3b0de3e56ceaca3958/free-nature-images.jpg?fit=fill&w=1200&h=630",
+      question: "Which continent has the highest number of countries?",
+      option1: "Asia",
+      option2: "Europe",
+      option3: "North America",
+      option4: "Africa",
+      ans: 4,
+    },
+    {
+      img:"https://images.ctfassets.net/hrltx12pl8hq/28ECAQiPJZ78hxatLTa7Ts/2f695d869736ae3b0de3e56ceaca3958/free-nature-images.jpg?fit=fill&w=1200&h=630",
+      question: "Junk e-mail is also called?",
+      option1: "Spam",
+      option2: "Fake",
+      option3: "Archived",
+      option4: "Bin",
+      ans: 1,
+    },
+    {
+      img:"https://images.ctfassets.net/hrltx12pl8hq/28ECAQiPJZ78hxatLTa7Ts/2f695d869736ae3b0de3e56ceaca3958/free-nature-images.jpg?fit=fill&w=1200&h=630",
+      question: "A computer cannot BOOT if it does not have the?",
+      option1: "Application Software",
+      option2: "Internet",
+      option3: "Operating System",
+      option4: "Mouse",
+      ans: 3,
+    },
+    {
+      img:"https://images.ctfassets.net/hrltx12pl8hq/28ECAQiPJZ78hxatLTa7Ts/2f695d869736ae3b0de3e56ceaca3958/free-nature-images.jpg?fit=fill&w=1200&h=630",
+      question: "First page of Website is termed as?",
+      option1: "Index Page",
+      option2: "Homepage",
+      option3: "Sitemap",
+      option4: "Pen Drive",
+      ans: 2,
+    },
+  ];
+
+  export default QuestionList;
